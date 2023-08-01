@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "name": "COX'S BAZAR",
+    "imgUrl": "https://iili.io/HZ9af4t.png",
+    "description": "Cox's Bazar is one of the longest sea beaches in the world. It's a sandy beach with an unbroken 155 Km length. The sea beach is the main attraction of the Cox's Bazar town. There are large number of hotels, resorts, guest houses, motels and restaurants have been established in the city.",
+    "hotelInfo": [
+      {
+        "id": "1",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://iili.io/HZdwlcu.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.9(20)",
+        "price": "34"
+      },
+      {
+        "id": "2",
+        "title": "Apartment in Lost Panorama",
+        "img": "https://iili.io/HZdeuwv.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.8(10)",
+        "price": "52"
+      },
+      {
+        "id": "3",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "img": "https://iili.io/HZde6iB.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.3(25)",
+        "price": "44"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "SUNDARBAN",
+    "imgUrl": "https://iili.io/HZ9ae9a.png",
+    "description": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India's Sundarbans World Heritage site inscribed in 1987.",
+    "hotelInfo": [
+      {
+        "id": "1",
+        "title": "Apartment in Lost Panorama",
+        "img": "https://iili.io/HZdeuwv.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.8(10)",
+        "price": "52"
+      },
+      {
+        "id": "2",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://iili.io/HZdwlcu.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.9(20)",
+        "price": "34"
+      },
+      {
+        "id": "3",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "img": "https://iili.io/HZde6iB.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.3(25)",
+        "price": "44"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "SREEMONGOL",
+    "imgUrl": "https://iili.io/HZ9aWMB.png",
+    "description": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.",
+    "hotelInfo": [
+      {
+        "id": "1",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "img": "https://iili.io/HZde6iB.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.3(25)",
+        "price": "44"
+      },
+      {
+        "id": "2",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://iili.io/HZdwlcu.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.9(20)",
+        "price": "34"
+      },
+      {
+        "id": "3",
+        "title": "Apartment in Lost Panorama",
+        "img": "https://iili.io/HZdeuwv.png",
+        "text_1": "4 guests   2 bedrooms   2 beds   2 baths",
+        "text_2": "Wif Air conditioning Kitchen",
+        "text_3": "Cancellation fexibility availiable",
+        "rating": "4.8(10)",
+        "price": "52"
+      }
+    ]
+  }
+]
