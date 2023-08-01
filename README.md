@@ -14,3 +14,7 @@ The backend server exposes the following endpoints:
 ## Technology Used: 
 1. Node Js
 2. Express
+
+## Live Demo:
+1. https://tripsomonia-backend.vercel.app/api/trip-data - to get all the trip data
+2. https://tripsomonia-backend.vercel.app/api/trip-data/${id} - to get a single trip object
